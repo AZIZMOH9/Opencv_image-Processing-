@@ -1,4 +1,4 @@
-#in this part
+# in this part
 ##*importing open cv
 ##*reading a photo
 ##*Grayscaling images
